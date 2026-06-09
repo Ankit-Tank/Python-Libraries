@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Python%20Libraries&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=My%20Hands-On%20Learning%20Journey%20🐍&descAlignY=55&descSize=18"/>
 
 <!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=📊+Data+%7C+📈+Visualization+%7C+🔢+NumPy;🐼+Pandas+%7C+🎨+Seaborn+%7C+📉+Matplotlib" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=📊+Data+%7C+📈+Visualization+%7C+🔢+NumPy;🐼+Pandas+%7C+🎨+Seaborn+%7C+📉+Matplotlib" alt="Typing SVG" />
 
 <br/>
 
