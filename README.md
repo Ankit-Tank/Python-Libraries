@@ -82,7 +82,7 @@
 
 ## 🚀 Getting Started
 
-<img align="right" width="250" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
 ```bash
 # 1. Clone this repo
