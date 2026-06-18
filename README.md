@@ -121,7 +121,6 @@ Seaborn      ████████░░░░░░░░   Basics ✅
 - [ ] 🔁 More Seaborn plots
 - [ ] 📦 Explore Plotly (interactive charts)
 - [ ] 🧹 Advanced Pandas (GroupBy, Merge, Pivot)
-- [ ] 🤖 Step into Machine Learning with Scikit-learn
 
 ---
 
