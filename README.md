@@ -119,7 +119,6 @@ Seaborn      ████████░░░░░░░░   Basics ✅
 ## 🗺️ What's Next?
 
 - [ ] 🔁 More Seaborn plots
-- [ ] 📦 Explore Plotly (interactive charts)
 
 ---
 
