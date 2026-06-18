@@ -116,10 +116,6 @@ Seaborn      ████████░░░░░░░░   Basics ✅
 
 ---
 
-## 🗺️ What's Next
-
----
-
 <div align="center">
 
 <!-- Animated Footer Wave -->
