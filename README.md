@@ -116,9 +116,7 @@ Seaborn      ████████░░░░░░░░   Basics ✅
 
 ---
 
-## 🗺️ What's Next?
-
-- [ ] 🔁 More Seaborn plots
+## 🗺️ What's Next
 
 ---
 
