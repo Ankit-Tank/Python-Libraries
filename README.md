@@ -61,6 +61,7 @@
  ┃
  ┗ 🎨 Seaborn/           ← Statistical Visualization
      ┗ 📒 Seaborn
+     ┗ 📒 Violin Plot
 ```
 
 ---
